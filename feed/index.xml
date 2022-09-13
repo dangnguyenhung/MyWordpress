@@ -9,8 +9,8 @@
 
 <channel>
 	<title>DREW</title>
-	<atom:link href="http://https://dangnguyenhung.github.io/MyWordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://dangnguyenhung.github.io/MyWordpress</link>
+	<atom:link href="https://https://dangnguyenhung.github.io/MyWordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://dangnguyenhung.github.io/MyWordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 16 Aug 2022 07:30:17 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://https://dangnguyenhung.github.io/MyWordpress/hello-world/</link>
-					<comments>http://https://dangnguyenhung.github.io/MyWordpress/hello-world/#comments</comments>
+		<link>https://https://dangnguyenhung.github.io/MyWordpress/hello-world/</link>
+					<comments>https://https://dangnguyenhung.github.io/MyWordpress/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
 		<pubDate>Tue, 16 Aug 2022 07:30:17 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://https://dangnguyenhung.github.io/MyWordpress/?p=1</guid>
+		<guid isPermaLink="false">https://https://dangnguyenhung.github.io/MyWordpress/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://dangnguyenhung.github.io/MyWordpress/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://dangnguyenhung.github.io/MyWordpress/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
