@@ -12,7 +12,7 @@
 	<atom:link href="https://dangnguyenhung.github.io/MyWordpress/product-tag/montana/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dangnguyenhung.github.io/MyWordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 11 Oct 2022 09:28:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 09:51:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,54 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Grand Prix Chair</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/grand-prix-chair/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/grand-prix-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 09:51:11 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=630</guid>
+
+					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+<ul>
+ 	<li>This is just a demo product.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-tabs wc-tabs-wrapper caston-wc-tabs">
+<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/grand-prix-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Eames Plastic Side Chair</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/eames-plastic-side-chair/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/eames-plastic-side-chair/#respond</comments>
+		
+		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 09:48:55 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=624</guid>
+
+					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+<ul>
+ 	<li>This is just a demo product.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/eames-plastic-side-chair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>CPH 25 Round Table</title>
 		<link>https://dangnguyenhung.github.io/MyWordpress/product/cph-25-round-table/</link>
 					<comments>https://dangnguyenhung.github.io/MyWordpress/product/cph-25-round-table/#respond</comments>
