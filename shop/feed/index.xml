@@ -12,7 +12,7 @@
 	<atom:link href="https://dangnguyenhung.github.io/MyWordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dangnguyenhung.github.io/MyWordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 11 Oct 2022 09:53:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 11:33:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,42 +20,140 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Knit-wit Pendant</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/knit-wit-pendant/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/knit-wit-pendant/#respond</comments>
+		<title>Triiio Dining Table</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/triiio-dining-table/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/triiio-dining-table/#respond</comments>
 		
 		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 09:53:15 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=633</guid>
+		<pubDate>Tue, 11 Oct 2022 11:33:13 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=828</guid>
 
-					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+<ul>
+ 	<li>This is just a demo product.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/triiio-dining-table/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Table Solvay</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/table-solvay/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/table-solvay/#respond</comments>
+		
+		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 11:31:09 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=824</guid>
 
-Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+<ul>
+ 	<li>This is just a demo product.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/table-solvay/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Table basse</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/table-basse/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/table-basse/#respond</comments>
+		
+		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 11:29:44 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=821</guid>
+
+					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+<ul>
+ 	<li>This is just a demo product.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-tabs wc-tabs-wrapper caston-wc-tabs">
+<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/table-basse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ro Sofa</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/ro-sofa/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/ro-sofa/#respond</comments>
+		
+		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 11:28:22 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=816</guid>
+
+					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+<ul>
+ 	<li>This is just a demo product.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/ro-sofa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Read Bookcase</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/read-bookcase/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/read-bookcase/#respond</comments>
+		
+		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 11:21:57 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=746</guid>
+
+					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+<ul>
+ 	<li>This is just a demo product.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/read-bookcase/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pilke 60 Pendant Lamp</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/pilke-60-pendant-lamp/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/pilke-60-pendant-lamp/#respond</comments>
+		
+		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 11:14:01 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=743</guid>
+
+					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 <ul>
  	<li>This is just a demo product.</li>
 </ul>
+<div class="fmtpl-widget-title fmtpl-title-wrap icon-pos-left"><span class="title-content">SPECIAL OFFERS</span></div>
+<div class="fmtpl-title-desc">
+<ul>
+ 	<li>In two days with free 2-day shipping.</li>
+ 	<li>Upgrade &#38; get $100+ off</li>
+ 	<li>Get this phone for $0 (SAVE $100).</li>
+</ul>
 </div>]]></description>
-										<content:encoded><![CDATA[<p>The Knit-Wit lamp is a true craftsmanship with timeless, refined design. Its made with 3D knitting technique, without any cut-offs and sewing, in fact – there is no waste of yarn at all. Inspired by the lightning sphere of the sun and the traditional Chinese rice lamp.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/knit-wit-pendant/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Grand Prix Chair</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/grand-prix-chair/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/grand-prix-chair/#respond</comments>
-		
-		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 09:51:11 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=630</guid>
-
-					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-<ul>
- 	<li>This is just a demo product.</li>
-</ul>]]></description>
 										<content:encoded><![CDATA[<div class="woocommerce-tabs wc-tabs-wrapper caston-wc-tabs">
 <div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
 <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
@@ -64,19 +162,19 @@ Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mau
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/grand-prix-chair/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/pilke-60-pendant-lamp/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Eames Plastic Side Chair</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/eames-plastic-side-chair/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/eames-plastic-side-chair/#respond</comments>
+		<title>Pilke 18 pendant</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/pilke-18-pendant/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/pilke-18-pendant/#respond</comments>
 		
 		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 09:48:55 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=624</guid>
+		<pubDate>Tue, 11 Oct 2022 11:10:47 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=738</guid>
 
 					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 <ul>
@@ -86,19 +184,19 @@ Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mau
 <p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/eames-plastic-side-chair/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/pilke-18-pendant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Dining Table</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/dining-table/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/dining-table/#respond</comments>
+		<title>Pia atlantic armchair</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/pia-atlantic-armchair/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/pia-atlantic-armchair/#respond</comments>
 		
 		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 09:32:55 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=621</guid>
+		<pubDate>Tue, 11 Oct 2022 11:06:33 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=693</guid>
 
 					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 <ul>
@@ -108,68 +206,21 @@ Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mau
 <p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/dining-table/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/pia-atlantic-armchair/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>CPH 25 Round Table</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/cph-25-round-table/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/cph-25-round-table/#respond</comments>
+		<title>Peacock Lounge Chair</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/peacock-lounge-chair/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/peacock-lounge-chair/#respond</comments>
 		
 		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 09:28:22 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=617</guid>
+		<pubDate>Tue, 11 Oct 2022 11:01:42 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=690</guid>
 
-					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-<ul>
- 	<li>This is just a demo product.</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/cph-25-round-table/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cost Storage</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/cost-storage/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/cost-storage/#respond</comments>
-		
-		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 09:13:04 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=412</guid>
-
-					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-<ul>
- 	<li>This is just a demo product.</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/cost-storage/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Contemporary table</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/contemporary-table/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/contemporary-table/#respond</comments>
-		
-		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:54:28 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=409</guid>
-
-					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-<ul>
- 	<li>This is just a demo product.</li>
-</ul>]]></description>
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Lorem ipsum was conceived as filler text, formatted in a certain way to enable [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div class="woocommerce-tabs wc-tabs-wrapper caston-wc-tabs">
 <div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
 <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
@@ -178,19 +229,19 @@ Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mau
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/contemporary-table/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/peacock-lounge-chair/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Colonial Chair</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/colonial-chair/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/colonial-chair/#respond</comments>
+		<title>Pauline Barstool</title>
+		<link>https://dangnguyenhung.github.io/MyWordpress/product/pauline-barstool/</link>
+					<comments>https://dangnguyenhung.github.io/MyWordpress/product/pauline-barstool/#respond</comments>
 		
 		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:50:19 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=405</guid>
+		<pubDate>Tue, 11 Oct 2022 11:00:13 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=687</guid>
 
 					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 <ul>
@@ -200,57 +251,7 @@ Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mau
 <p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/colonial-chair/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Beetle chair</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/beetle-chair/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/beetle-chair/#respond</comments>
-		
-		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:03:17 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=342</guid>
-
-					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-<ul>
- 	<li>This is just a demo product.</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce-tabs wc-tabs-wrapper caston-wc-tabs">
-<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
-<p>&nbsp;</p>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/beetle-chair/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Baniversary Salutes Chair</title>
-		<link>https://dangnguyenhung.github.io/MyWordpress/product/baniversary-salutes-chair/</link>
-					<comments>https://dangnguyenhung.github.io/MyWordpress/product/baniversary-salutes-chair/#respond</comments>
-		
-		<dc:creator><![CDATA[DangNguyenHung]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 07:48:24 +0000</pubDate>
-				<guid isPermaLink="false">https://dangnguyenhung.github.io/MyWordpress/?post_type=product&#038;p=337</guid>
-
-					<description><![CDATA[Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-<ul>
- 	<li>This is just a demo product.</li>
-</ul>]]></description>
-										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-<p>Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom.</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/baniversary-salutes-chair/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dangnguyenhung.github.io/MyWordpress/product/pauline-barstool/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
